@@ -1368,7 +1368,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "kdm"
+name = "kdownloadmanager"
 version = "0.1.0"
 dependencies = [
  "serde",
