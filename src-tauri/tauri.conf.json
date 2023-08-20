@@ -55,10 +55,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 700,
         "resizable": true,
-        "title": "Kneelawk&#x27;s Download Manager",
-        "width": 800
+        "title": "Kneelawk's Download Manager",
+        "width": 500
       }
     ]
   }
